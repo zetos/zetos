@@ -14,4 +14,4 @@
 
 ---
 
-![Zetos GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nord)
+![Zetos GitHub stats](https://github-readme-stats.vercel.app/api?username=zetos&show_icons=true&theme=nord)
